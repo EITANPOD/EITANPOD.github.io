@@ -1,3 +1,5 @@
+# **About Me**
+
 Dedicated DevOps student with hands-on experience in cloud technologies, automation, and software
 development practices. Currently seeking an entry-level position in a DevOps role.
 Eager to apply problem-solving abilities and growing technical knowledge within a dynamic tech
@@ -31,8 +33,8 @@ The Recipe Website Project is a full-stack web application where users can manag
   
 ## - **Certifications**
 
-- Red Hat Certified Engineer (RHCE) – RHEL 9
-- Red Hat Certified System Administrator (RHCSA)
-    - Certifications ID: 240-183-772
-    - Certifications can be found here
+### Red Hat Certified Engineer (RHCE) – RHEL 9
+### Red Hat Certified System Administrator (RHCSA)
+- Certifications ID: 240-183-772
+- Certifications can be found here
 
