@@ -7,18 +7,18 @@ environment.
 
 # **Featured Projects**
 
-## **Recipe Book Website Project**
+### **Recipe Book Website Project**
 
 The Recipe Website Project is a full-stack web application where users can manage recipes organized by categories. It showcases modern DevOps practices with a cloud-based infrastructure managed using Terraform and Kubernetes. The project includes three repositories: the application (frontend, backend, and database integration), a GitOps repository for deployment configurations with ArgoCD, and an infrastructure repository for provisioning AWS resources like EKS and RDS.
 
-### **Main Application Repository**
-- **[Main Application Repository](main-app-repo-link)**: Contains the source code for the frontend, backend, and API logic.
+#### **[Main Application Repository](https://github.com/EITANPOD/devops-killer-project)**
+- Contains the source code for the frontend, backend, and API logic.
 
-### **Infrastructure Repository**
-- **[Infrastructure Repository](infra-repo-link)**: Manages cloud infrastructure with Terraform, including EKS and RDS.
+#### **[Infrastructure Repository](https://github.com/EITANPOD/devops-killer-infra-repo)**
+- Manages cloud infrastructure with Terraform, including EKS and RDS.
 
-### **GitOps Repository**
-- **[GitOps Repository](gitops-repo-link)**: Stores deployment configuration files for ArgoCD.
+#### **[GitOps Repository](https://github.com/EITANPOD/devops-killer-gitOps)**
+- Stores deployment configuration files for ArgoCD.
 
 ---
 
