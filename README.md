@@ -20,6 +20,7 @@ The Recipe Website Project is a full-stack web application where users can manag
 
 ---
 
+
 # **Technical Skills**
 
 - **Programming Languages**: Python, Java,  JavaScript
@@ -28,10 +29,10 @@ The Recipe Website Project is a full-stack web application where users can manag
 - **Version Control**: Git
 - **Operating Systems**: Linux, Windows, MacOS
   
-## **Certifications**
+## - **Certifications**
 
 - Red Hat Certified Engineer (RHCE) – RHEL 9
 - Red Hat Certified System Administrator (RHCSA)
-    Certifications ID: 240-183-772
-    Certifications can be found here
+    - Certifications ID: 240-183-772
+    - Certifications can be found here
 
